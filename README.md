@@ -1,5 +1,5 @@
 <h1 align="center">Pritom Paul</h1>
-<h3 align="center">Software Engineer · Computer Vision & Applied ML</h3>
+<h3 align="center">Software Engineer · Automation, Computer Vision & Applied ML</h3>
 
 <p align="center">
   Backend systems · Industrial automation · Computer vision pipelines · Applied research<br/>
