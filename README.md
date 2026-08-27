@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Pritom Paul</h1>
-<h3 align="center">Software Engineer transitioning into Computer Vision & Applied ML Research</h3>
+<h1 align="center">I'm Pritom Paul</h1>
+<h3 align="center">Software Engineer | Computer Vision & Applied ML</h3>
 
 <p align="center">
-  Backend systems • Industrial automation • Computer vision pipelines<br/>
-  Based in Dhaka, Bangladesh 🇧🇩
+  Backend systems • Industrial automation • Computer vision pipelines • Applied research<br/>
+  Dhaka, Bangladesh 🇧🇩
 </p>
 
 <p align="center">
@@ -22,14 +22,60 @@
 
 ### 💫 About Me
 
-I'm a Software Engineer with 2+ years of experience building backend systems, industrial automation, and computer vision pipelines that run in real-world, unglamorous conditions — factory floors, ATM hardware, messy datasets. Lately I'm moving toward research, focused on learning-based methods for computer vision and image processing.
+I'm a Software Engineer with 2+ years of experience building backend systems, industrial automation, and computer vision pipelines that run in real-world, unglamorous conditions — factory floors, ATM hardware, messy datasets. In parallel, I'm building toward applied research in computer vision and deep learning, with an ongoing project aimed at publication.
 
-- 🔭 Currently building a **real-world fish detection dataset & YOLO-based species identification pipeline** (ongoing research, publication planned)
-- 🏭 Previously shipped **AlterEye**, a real-time multi-camera factory analytics system (YOLO + GStreamer + MQTT + Redis)
-- 🤖 Building automation tools like **AlterBot**, which cut 100+ hours/week of manual work in garment industry workflows
+I work across two tracks that inform each other: **shipping production systems** that hold up under real operational load, and **exploring learning-based methods** for the kinds of problems those systems run into.
+
+- 🏭 **Industry:** Software Engineer at AlterSense Limited — automating industrial workflows, building REST APIs, deploying containerized services
+- 🔬 **Research:** Building a real-world fish detection dataset & YOLO-based species identification pipeline (ongoing, publication planned)
 - 🌱 Interests: Computer Vision, Image Processing, Deep Learning, Machine Learning
-- 💬 Ask me about: object detection pipelines, RTSP/multi-camera ingestion, or Django REST APIs at scale
+- 💬 Ask me about: object detection pipelines, RTSP/multi-camera ingestion, Django REST APIs at scale, or dataset curation for CV tasks
 - 📫 Reach me at **pritompaul98official@gmail.com**
+
+---
+
+### 🔬 Research
+
+**Fish Detection and Dataset Development** *(Ongoing — Mar 2026–Present)*
+Python, YOLO, Computer Vision
+- Collecting and curating a real-world fish image dataset for detection tasks
+- Building object detection models for species identification using YOLO
+- Designing annotation and preprocessing pipelines for dataset scalability
+- Tackling real-world deployment challenges: noise, occlusion, class imbalance
+- Planned research publication
+
+**Banknote Quality Classification for CDM Template Calibration**
+Document Analysis, Dataset Curation
+- Built a banknote data collection pipeline (Technomedia Limited × NCR Corporation) for CDM recognition training
+- Categorized 12+ condition classes (ATM Fit, Counterfeit, Mutilated, Graffiti) across NCR SR61/SS83 platforms
+- Applied a 4-orientation protocol (Face A/B/C/D) for feed alignment validation and rejection-rate analysis
+- Formalized structured datasets for NCR submission, improving counterfeit-detection templates
+
+---
+
+### 💼 Professional Experience
+
+**Software Engineer** — AlterSense Limited · *Mar 2024 – Present*
+- Automated 10+ industrial workflows in Python, cutting manual effort by 100+ hrs/month and improving accuracy by 40%
+- Designed scalable REST APIs in Django with optimized queries, caching, and robust testing
+- Deployed containerized services with Docker and Nginx; implemented CI/CD via GitHub Actions
+- Mentored junior engineers in system design and development practices
+
+**Technical Support Engineer Intern** — Technomedia Limited · *May 2023 – Oct 2023*
+- Diagnosed and resolved 50+ ATM hardware/software issues, improving uptime by 30%
+- Collaborated with the Counterfeiting Department on hardware validation, cutting ATM failure rates by 25%
+- Contributed to a CDM banknote classification pipeline covering 12+ condition classes
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Fish Detection & Dataset Dev** *(ongoing)* | Real-world fish image dataset + YOLO-based species ID, research paper planned | Python, YOLO, CV |
+| **AlterEye** | Real-time multi-camera vision system for industrial monitoring & anomaly detection | Python, OpenVINO, YOLO, GStreamer, MQTT, Redis |
+| **AlterBot** | Automation suite for garment-industry workflows — cut manual labor by 66%, saving 100+ hrs/week | Python, Django, Playwright, Selenium, Docker, Svelte, PostgreSQL |
+| **TCMS** | Full-stack ATM service-request & engineer-assignment tracking system | PHP, MySQL, JavaScript, HTML/CSS |
 
 ---
 
@@ -43,9 +89,8 @@ I'm a Software Engineer with 2+ years of experience building backend systems, in
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-**Machine Learning & Data**
+**Machine Learning & Vision**
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -58,12 +103,16 @@ I'm a Software Engineer with 2+ years of experience building backend systems, in
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
+**Streaming & Messaging**
+![GStreamer](https://img.shields.io/badge/GStreamer-FF6C37?style=for-the-badge&logo=gstreamer&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+
 **Frontend**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Infra & Tools**
+**DevOps & Tools**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -72,38 +121,24 @@ I'm a Software Engineer with 2+ years of experience building backend systems, in
 
 ---
 
-### 🚀 Featured Projects
+### 🎓 Education
 
-| Project | Description | Stack |
-|---|---|---|
-| **Fish Detection & Dataset Dev** *(ongoing)* | Curating a real-world fish image dataset and building YOLO-based species identification, with a research paper planned | Python, YOLO, CV |
-| **AlterEye** | Real-time multi-camera vision system for industrial monitoring & anomaly detection | Python, OpenVINO, YOLO, GStreamer, MQTT, Redis |
-| **AlterBot** | Automation suite for garment-industry workflows — cut manual labor by 66%, saving 100+ hrs/week | Python, Django, Playwright, Selenium, Docker, Svelte, PostgreSQL |
-| **TCMS** | Full-stack ATM service request & engineer-assignment tracking system | PHP, MySQL, JavaScript, HTML/CSS |
+**BRAC University** — B.Sc. in Computer Science and Engineering *(2018 – 2023)*
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pritom-Paul&show_icons=true&theme=merko&hide_border=false&count_private=true" alt="Pritom's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritom-Paul&layout=compact&theme=merko&hide_border=false" alt="Top Languages"/>
+  <img src="./metrics.svg" alt="Pritom's GitHub metrics"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pritom-Paul&theme=merko&hide_border=false" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pritom-Paul&theme=react-dark&hide_border=false" alt="Activity Graph"/>
-</p>
+> Stats are generated by a GitHub Action (`lowlighter/metrics`) that commits a fresh SVG to this repo daily — see `.github/workflows/metrics.yml`. This avoids relying on the public `github-readme-stats.vercel.app` demo instance, which is frequently rate-limited and unreliable.
 
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=Pritom-Paul&icon=0&color=3" alt="Profile views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Pritom-Paul&icon=0&color=3" alt="Profile views"/>
 </p>
 
-<!-- Built with Claude, based on Pritom Paul's academic resume -->
+<!-- Built with Claude, based on Pritom Paul's academic and professional resumes -->
