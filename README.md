@@ -1,4 +1,4 @@
-<h1 align="center">I'm Pritom Paul</h1>
+<h1 align="center">Hi 👋, I'm Pritom Paul</h1>
 <h3 align="center">Software Engineer | Computer Vision & Applied ML</h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://pritom-paul.github.io/PritomPaul.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -28,16 +28,16 @@ I work across two tracks that inform each other: **shipping production systems**
 
 - 🏭 **Industry:** Software Engineer at AlterSense Limited — automating industrial workflows, building REST APIs, deploying containerized services
 - 🔬 **Research:** Building a real-world fish detection dataset & YOLO-based species identification pipeline (ongoing, publication planned)
-- 🌱 Interests: Computer Vision, Image Processing, Deep Learning, Machine Learning
-- 💬 Ask me about: object detection pipelines, RTSP/multi-camera ingestion, Django REST APIs at scale, or dataset curation for CV tasks
-- 📫 Reach me at **pritompaul98official@gmail.com**
+- 🌱 **Interests:** Computer Vision, Image Processing, Deep Learning, Machine Learning
+- 💬 **Ask me about:** object detection pipelines, RTSP/multi-camera ingestion, Django REST APIs at scale, or dataset curation for CV tasks
+- 📫 **Reach me at:** [pritompaul98official@gmail.com](mailto:pritompaul98official@gmail.com)
 
 ---
 
 ### 🔬 Research
 
 **Fish Detection and Dataset Development** *(Ongoing — Mar 2026–Present)*
-Python, YOLO, Computer Vision
+`Python` `YOLO` `Computer Vision`
 - Collecting and curating a real-world fish image dataset for detection tasks
 - Building object detection models for species identification using YOLO
 - Designing annotation and preprocessing pipelines for dataset scalability
@@ -45,7 +45,7 @@ Python, YOLO, Computer Vision
 - Planned research publication
 
 **Banknote Quality Classification for CDM Template Calibration**
-Document Analysis, Dataset Curation
+`Document Analysis` `Dataset Curation`
 - Built a banknote data collection pipeline (Technomedia Limited × NCR Corporation) for CDM recognition training
 - Categorized 12+ condition classes (ATM Fit, Counterfeit, Mutilated, Graffiti) across NCR SR61/SS83 platforms
 - Applied a 4-orientation protocol (Face A/B/C/D) for feed alignment validation and rejection-rate analysis
@@ -70,12 +70,36 @@ Document Analysis, Dataset Curation
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **Fish Detection & Dataset Dev** *(ongoing)* | Real-world fish image dataset + YOLO-based species ID, research paper planned | Python, YOLO, CV |
-| **AlterEye** | Real-time multi-camera vision system for industrial monitoring & anomaly detection | Python, OpenVINO, YOLO, GStreamer, MQTT, Redis |
-| **AlterBot** | Automation suite for garment-industry workflows — cut manual labor by 66%, saving 100+ hrs/week | Python, Django, Playwright, Selenium, Docker, Svelte, PostgreSQL |
-| **TCMS** | Full-stack ATM service-request & engineer-assignment tracking system | PHP, MySQL, JavaScript, HTML/CSS |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🐟 Fish Detection & Dataset Dev <em>(ongoing)</em></h4>
+      Real-world fish image dataset + YOLO-based species identification, with a research paper planned.
+      <br/><br/>
+      <code>Python</code> <code>YOLO</code> <code>Computer Vision</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>👁️ AlterEye</h4>
+      Real-time multi-camera vision system for industrial monitoring and anomaly detection, processing RTSP streams at scale.
+      <br/><br/>
+      <code>Python</code> <code>OpenVINO</code> <code>YOLO</code> <code>GStreamer</code> <code>MQTT</code> <code>Redis</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 AlterBot</h4>
+      Automation suite for garment-industry workflows — cut manual labor by 66%, saving 100+ hours weekly.
+      <br/><br/>
+      <code>Python</code> <code>Django</code> <code>Playwright</code> <code>Selenium</code> <code>Docker</code> <code>Svelte</code> <code>PostgreSQL</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📞 TCMS</h4>
+      Full-stack ATM service-request and engineer-assignment tracking system with real-time dashboards.
+      <br/><br/>
+      <code>PHP</code> <code>MySQL</code> <code>JavaScript</code> <code>HTML/CSS</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -123,22 +147,14 @@ Document Analysis, Dataset Curation
 
 ### 🎓 Education
 
-**BRAC University** — B.Sc. in Computer Science and Engineering *(2018 – 2023)*
+**BRAC University**, Dhaka — B.Sc. in Computer Science and Engineering *(2018 – 2023)*
 
 ---
 
-### 📊 GitHub Stats
+### 🤝 Let's Connect
 
-<p align="center">
-  <img src="./metrics.svg" alt="Pritom's GitHub metrics"/>
-</p>
-
-> Stats are generated by a GitHub Action (`lowlighter/metrics`) that commits a fresh SVG to this repo daily — see `.github/workflows/metrics.yml`. This avoids relying on the public `github-readme-stats.vercel.app` demo instance, which is frequently rate-limited and unreliable.
-
----
+I'm always happy to talk about computer vision, backend architecture, or applied ML research. Reach out on [LinkedIn](https://www.linkedin.com/in/pritom-paul-30b40a228/) or drop me an [email](mailto:pritompaul98official@gmail.com) — or check out my [portfolio](https://pritom-paul.github.io/PritomPaul.github.io/) for more.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pritom-Paul&icon=0&color=3" alt="Profile views"/>
 </p>
-
-<!-- Built with Claude, based on Pritom Paul's academic and professional resumes -->
